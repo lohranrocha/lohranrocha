@@ -1,14 +1,14 @@
-### Olá, eu sou o Lohran Rocha 👋🤖
+### Coé?! 👋🤖
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Entusiasta+de+Tecnologia+%26+IA+%F0%9F%A4%96;Full+Stack+em+construção+%F0%9F%9A%80;Aprendendo+todos+os+dias+%F0%9F%93%9A;Transformando+café+em+código+☕)](https://git.io/typing-svg)
 
-> *"O futuro pertence a quem aprende novas habilidades e as combina de formas criativas."*
+> *"Do not go gentle into that good night"*
 
 ---
 
 ## 🧠 Quem sou eu?
 
-Sou o **Lohran**, um entusiasta de tecnologia e Inteligência Artificial que acredita que o maior superpoder do futuro é saber construir coisas com código + IA. Estou no início da jornada, mas com energia total pra chegar lá. Um dia Full Stack — por enquanto, Full *Curioso*. 😄
+Sou o **Lohran**, um entusiasta de tecnologia e Inteligência Artificial que acredita que o maior superpoder do futuro é saber construir coisas com código + IA.
 
 ---
 
@@ -35,12 +35,6 @@ const lohran = {
 
 ---
 
-## 🤖 Minha relação com IA
-
-Não é só hype — eu acredito de verdade que **IA + boas ideias** podem resolver problemas reais. Estou explorando como usar modelos de linguagem, APIs inteligentes e automação pra construir projetos que façam diferença.
-
----
-
 ## 📈 GitHub Stats
 
 ![Lohran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lohranrocha&show_icons=true&theme=tokyonight&hide_border=true)
@@ -63,7 +57,5 @@ Não é só hype — eu acredito de verdade que **IA + boas ideias** podem resol
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohranrocha)
 
 ---
-
-⭐ *Se algum projeto aqui te inspirou, deixa uma estrela — isso faz meu dia!* ⭐
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=lohranrocha&color=6C63FF&style=flat-square)
